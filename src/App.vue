@@ -18,7 +18,7 @@ function addItem() {
   }
 }
 
-// 할일 갯수
+// 할일 갯수 11
 const totalItems = computed(() => data.items.length);
 
 // 완료 갯수
